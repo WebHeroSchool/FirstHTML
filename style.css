@@ -2,10 +2,10 @@ body {
 	background-image: url(https://pcvector.net/uploads/posts/2018-02/1517572511_bg-svg-gradient-min.png);
 }
 
-.header {
+body {
 	font-family: 'Roboto Condensed', sans-serif;
 }
 
-.content {
+section {
 	font-family: 'Big Shoulders Display', cursive;
 }
