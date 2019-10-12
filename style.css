@@ -1,3 +1,11 @@
 body {
 	background-image: url(https://pcvector.net/uploads/posts/2018-02/1517572511_bg-svg-gradient-min.png);
 }
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+section {
+	font-family: 'Playfair Display', serif;
+}
